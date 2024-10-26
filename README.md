@@ -45,7 +45,7 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/deepaksnk/vegetable-classification.git
    cd vegetable-classification
- `
+ 
 
 ## Team Members
 - **Deepak**: [GitHub Profile](https://github.com/deepaksnk)
