@@ -1,4 +1,4 @@
-# Vegetable Classification Using Deep Learning
+# Vegetable Classification Using Deep Learning 
 
 ## Overview
 This project aims to classify different types of vegetables using deep learning techniques. By automating the classification process, we enhance accuracy and efficiency over traditional manual methods.
