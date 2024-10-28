@@ -8,7 +8,7 @@ The objective is to develop a robust system that can accurately identify various
 
 ## Significance
 - **Accuracy and Consistency**: Reduces human errors associated with manual classification. 
-- **Speed and Efficiency**: Automates and accelerates the sorting process.
+- **Speed and Efficiency**: Automates and accelerates the sorting process. 
 - **Scalability**: Capable of handling large datasets effectively.
 - **Applications**: Enhancements in inventory management and consumer assistance.
 
