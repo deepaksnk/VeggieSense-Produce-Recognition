@@ -35,8 +35,8 @@ We trained and evaluated five different models, each with varying architectures 
    - **[Colab Link](https://colab.research.google.com/drive/1yLUMGcSq1WC96-sW6_XNzSEhEcWXytrU?usp=sharing)**
 
 5. **Model 5: VGG-16**
-   - **Accuracy**: 98.73%
-   - **[Colab Link](https://colab.research.google.com/drive/1fuOyomA-umWmxCL40zZ3scFyQUDKVCdd?usp=sharing)**
+   - **Accuracy**: 99.59%
+   - **[Colab Link](https://colab.research.google.com/drive/1TZ4WxbUCOZLbNOQZF0IVUAwlsxLUV805?usp=sharing)**
 
 ## Installation
 To set up the project locally, follow these steps:
