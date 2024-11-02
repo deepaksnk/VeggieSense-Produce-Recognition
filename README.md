@@ -16,7 +16,7 @@ The objective is to develop a robust system that can accurately identify various
 The dataset used for this project is the [Vegetable Image Dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset), which contains images of various vegetables for classification.
 
 ## Models Developed
-We trained and evaluated five different models, each with varying architectures and performance metrics:
+We trained and evaluated five different models, each with varying architectures and performance metrics: 
 
 1. **Model 1: CNN**
    - **Accuracy**: 93.30%
