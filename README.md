@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
  
 
 ## Team Members
-- **Deepak**: [GitHub Profile](https://github.com/deepaksnk)
+- **Deepak Somasekar S**: [GitHub Profile](https://github.com/deepaksnk)
 - **Chandana**: [GitHub Profile](https://github.com/chandu1206s)
 
 ## Acknowledgments
