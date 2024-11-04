@@ -23,7 +23,7 @@ We trained and evaluated five different models, each with varying architectures 
    - **[Colab Link](https://colab.research.google.com/drive/1ydRIZm6uVzy30RNAh6ZteAJUKpeADOfj?usp=sharing)**
 
 2. **Model 2: ResNet50**
-   - **Accuracy**: 99.93%
+   - **Accuracy**: 99.83%
    - **[Colab Link](https://colab.research.google.com/drive/1NbegFew8FAKxLxdzREljIEQbVbwAJFtr?usp=sharing)**
 
 3. **Model 3: InceptionV3**
