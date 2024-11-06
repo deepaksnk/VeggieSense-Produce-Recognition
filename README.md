@@ -43,7 +43,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deepaksnk/vegetable-classification.git
+   git clone https://github.com/deepaksnk/VeggieSense-Produce-Recognition.git
    cd vegetable-classification
  
 
