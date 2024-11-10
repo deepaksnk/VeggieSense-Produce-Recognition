@@ -55,3 +55,4 @@ To set up the project locally, follow these steps:
 - Thanks to the creators of the Vegetable Image Dataset for providing the data.
 - Special thanks to all contributors and supporters involved in this project.
 
+J, Guruprakash and Sakhi, Askhar and Gowda, Nishanth S. and Kumar J, Arun and G, Hariish and Narayanan, Ashwin and L.B, Krithika, AI-based Mobile Apps on Mobile Devices across various Domain Verticals: Past, Present and Future (October 29, 2024). Available at SSRN: https://ssrn.com/abstract=5002541 or http://dx.doi.org/10.2139/ssrn.5002541
